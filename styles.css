@@ -1,0 +1,13 @@
+h3 {
+	color:darkmagenta;text-align:center
+}
+p {
+	color:red ;text-align:center
+}
+div{
+	font-family:Arial;
+	font-size:50px;
+	font-weight:italic;
+	background-color:teal;
+	border:7px dotted red;
+}
